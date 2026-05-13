@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.vite/
+.env
+.env.*
+*.log
+server.out.log
+server.err.log
+scripts/push-github-api.ps1
